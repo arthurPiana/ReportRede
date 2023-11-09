@@ -1,0 +1,3 @@
+O relatorio apresentado fornece informação de dois projetos encontrdos no OzMaps que foram utilizados como teste da ferramenta.
+A ferramenta identifica os tipos de cabo presentes no projeto, e agrupa o comprimento deles por tipo, apresentando um panorama geral da extensão de cada tipo de cabo.
+ As classificações de tipo são retiradas diretamente do OzMaps.
